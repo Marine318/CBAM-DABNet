@@ -1,0 +1,37 @@
+/.idea
+/annotations
+/A测试集+C
+/C_处理后的推理图片
+/C_处理后的推理图片——转化为灰度图
+/C_处理后的推理图片——转化为灰度图-可视化
+/C_处理后的推理图片——转化为灰度图-可视化_ab
+/C_处理后的推理图片——转化为灰度图_ab
+/C_处理后的推理图片——转化为灰度图_ab——自己推理
+/C_处理后的推理图片——转化为灰度图_ab——自己推理-可视化_ab
+/C_处理后的推理图片——转化为灰度图_ab——自己推理_npy
+/Dataset B
+/Dataset C-供国赛参赛学生打榜用
+/datasets
+/Dataset_img_out
+/images
+/img
+/img_out
+/last_epoch_weights.pth
+/last_epoch_weights_ab.pth
+/logs
+/logs_1
+/logs_2
+/logs_3
+/logs_4
+/miou_out
+/model_data
+/self_net_prediction_npy_ab
+/VOCdevkit
+/VOCdevkit_1
+/常见问题汇总.md
+/新钢材数据
+/标签的npy_files
+/真正国赛测试GT
+/真正国赛测试GT_npy
+/真正国赛测试GT_可视化
+/自己的npy_files
