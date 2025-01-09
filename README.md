@@ -35,14 +35,7 @@ hrnet | https://github.com/bubbliiiing/hrnet-pytorch
 torch==1.2.0
 
 ### 注意事项
-代码中的deeplab_mobilenetv2.pth和deeplab_xception.pth是基于VOC拓展数据集训练的。训练和预测时注意修改backbone。    
-
-### 文件下载
-训练所需的deeplab_mobilenetv2.pth和deeplab_xception.pth可在百度网盘中下载。     
-链接: https://pan.baidu.com/s/1IQ3XYW-yRWQAy7jxCUHq8Q 提取码: qqq4   
-
-VOC拓展数据集的百度网盘如下：  
-链接: https://pan.baidu.com/s/1vkk3lMheUm6IjTXznlg7Ng 提取码: 44mk   
+代码中的deeplab_mobilenetv2.pth和deeplab_xception.pth是基于VOC拓展数据集训练的。训练和预测时注意修改backbone。      
 
 ### 训练步骤
 #### a、训练voc数据集
